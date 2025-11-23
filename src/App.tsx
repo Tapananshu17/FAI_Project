@@ -9,7 +9,7 @@ function App() {
     <Router>
       <div className="app-container">
         <nav style={{ padding: '1rem', background: '#fff', boxShadow: '0 2px 4px rgba(0,0,0,0.05)', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <Link to="/" style={{ textDecoration: 'none', fontWeight: 'bold', fontSize: '1.2rem', color: '#333' }}>FAI-App</Link>
+          <Link to="/" style={{ textDecoration: 'none', fontWeight: 'bold', fontSize: '1.2rem', color: '#333' }}>Foundations of AI - Project</Link>
           <div>
             <Link to="/" style={{ marginRight: '1rem', textDecoration: 'none', color: '#666' }}>Home</Link>
           </div>
