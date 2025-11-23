@@ -7,6 +7,9 @@ This project is an interactive **Constraint Satisfaction Problem (CSP) Visualize
 
 The application features a premium UI with real-time visualization of solver steps, allowing users to understand algorithms like Backtracking, Forward Checking, and Arc Consistency.
 
+<img width="1470" height="729" alt="Screenshot 2025-11-23 at 7 13 09 PM" src="https://github.com/user-attachments/assets/1f9e800a-2366-4de4-9afd-2a7462302194" />
+
+
 ## Features
 
 ### ♛ N-Queens Solver
@@ -20,6 +23,9 @@ The application features a premium UI with real-time visualization of solver ste
   - Manually place queens.
   - **Validation**: Instant feedback on conflicts (row, column, diagonal).
 
+<img width="1470" height="727" alt="Screenshot 2025-11-23 at 7 13 35 PM" src="https://github.com/user-attachments/assets/a44b7a08-bd87-421d-bfaa-6e520de18c69" />
+
+
 ### 🔢 KenKen Solver
 - **Puzzle Generator**: Dynamically generates valid KenKen puzzles from **4x4 to 10x10**.
 - **Algorithms**:
@@ -31,10 +37,7 @@ The application features a premium UI with real-time visualization of solver ste
   - **Progress Check**: Validate your current moves against the solution without revealing the entire board.
   - **Cage Validation**: Ensures math constraints (Sum, Subtract, Multiply, Divide) are met.
 
-### 🎨 UI/UX
-- **Premium Home Page**: Dark theme with animated gradient background and glassmorphism effects.
-- **Visualization Controls**: Play, Pause, Step Forward, Reset, and Speed Control.
-- **Responsive Design**: Optimized for various screen sizes.
+<img width="1470" height="726" alt="Screenshot 2025-11-23 at 7 14 00 PM" src="https://github.com/user-attachments/assets/0e5f2637-0aee-4bb6-a77e-825dae85078c" />
 
 ## Technologies Used
 - **Frontend**: React, TypeScript, Vite
@@ -70,4 +73,3 @@ The application features a premium UI with real-time visualization of solver ste
 - `src/styles/`: CSS files for styling.
 
 ---
-*Developed for the Foundations of Artificial Intelligence (FAI) Project.*
