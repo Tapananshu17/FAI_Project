@@ -1,7 +1,5 @@
 # CSP Visualizer - FAI Project
 
-**Repository:** [https://github.com/Tapananshu17/FAI_Project](https://github.com/Tapananshu17/FAI_Project/tree/main)
-
 ## Overview
 This project is an interactive **Constraint Satisfaction Problem (CSP) Visualizer** built with React and TypeScript. It demonstrates how AI algorithms solve complex constraint problems like **N-Queens** and **KenKen** puzzles.
 
@@ -9,7 +7,7 @@ The application features a premium UI with real-time visualization of solver ste
 
 ## Features
 
-### ♛ N-Queens Solver
+### N-Queens Solver
 - **Interactive Board**: Visualize the placement of queens on an N x N board.
 - **Adjustable Size**: Support for board sizes from **4x4 to 12x12**.
 - **Algorithms**:
@@ -20,7 +18,7 @@ The application features a premium UI with real-time visualization of solver ste
   - Manually place queens.
   - **Validation**: Instant feedback on conflicts (row, column, diagonal).
 
-### 🔢 KenKen Solver
+### KenKen Solver
 - **Puzzle Generator**: Dynamically generates valid KenKen puzzles from **4x4 to 10x10**.
 - **Algorithms**:
   - **Backtracking**: Brute-force with constraint checking.
@@ -30,11 +28,6 @@ The application features a premium UI with real-time visualization of solver ste
   - **Smart Hints**: Click a cell to see mathematically valid options based on cage and board state.
   - **Progress Check**: Validate your current moves against the solution without revealing the entire board.
   - **Cage Validation**: Ensures math constraints (Sum, Subtract, Multiply, Divide) are met.
-
-### 🎨 UI/UX
-- **Premium Home Page**: Dark theme with animated gradient background and glassmorphism effects.
-- **Visualization Controls**: Play, Pause, Step Forward, Reset, and Speed Control.
-- **Responsive Design**: Optimized for various screen sizes.
 
 ## Technologies Used
 - **Frontend**: React, TypeScript, Vite
@@ -68,6 +61,4 @@ The application features a premium UI with real-time visualization of solver ste
 - `src/pages/`: Main game pages (Home, NQueens, KenKen).
 - `src/hooks/`: Custom hooks for visualization state.
 - `src/styles/`: CSS files for styling.
-
 ---
-*Developed for the Foundations of Artificial Intelligence (FAI) Project.*
